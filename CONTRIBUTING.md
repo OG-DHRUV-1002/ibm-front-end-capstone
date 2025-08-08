@@ -1,15 +1,9 @@
-# Contributing Guidelines
+# Contributing
 
-Thank you for considering contributing to this project!
+Thank you for your interest in contributing! All contributions are welcome.
 
 ## How to Contribute
-- Fork the repository
-- Create a new branch for your feature/fix
-- Submit a pull request with clear explanation
-
-## Code Style
-- Use consistent indentation
-- Write meaningful commit messages
-
-## Reporting Issues
-Use the GitHub issues tab to report bugs or request features.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Add your code or changes.
+4. Submit a pull request.
